@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @spkumar07
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning C and JavaScript
+- 📫 How to reach me mail@kumar.info.np
